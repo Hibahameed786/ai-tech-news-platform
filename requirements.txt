@@ -7,3 +7,6 @@ sentence-transformers
 transformers
 scikit-learn
 torch
+sumy
+nltk
+
