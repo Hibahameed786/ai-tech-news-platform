@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+venv/
+.env
+tech_news.csv  # If you don't want to push data files
