@@ -3,3 +3,7 @@ feedparser
 pandas
 requests
 beautifulsoup4
+sentence-transformers
+transformers
+scikit-learn
+torch
